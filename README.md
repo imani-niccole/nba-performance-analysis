@@ -62,10 +62,9 @@ These findings describe *associations* within the dataset and do not
 establish causation.
 
 ## Dashboard
+<img width="400" height="200" alt="Screenshot 2026-09-10 at 2 39 51 PM" src="https://github.com/user-attachments/assets/05fb0e3d-b7dc-412b-acdb-0ab0b17647c0" />
 
 [NBA Performance Analysis Dashboard](https://public.tableau.com/views/NBAPerformanceAnalysis_17889866103190/NBAPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-[NBA Performance Analysis.pdf](https://github.com/user-attachments/files/32071707/NBA.Performance.Analysis.pdf)
 
 ## Repository Structure
 - notebook = further analysis & calculate indicator concentrations
