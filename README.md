@@ -21,15 +21,15 @@ The analysis contains:
 - 30 NBA teams
 - 578 player records
 - Team performance stats
-- Player scoring, assist, and rebound stats
+- Player scoring, assists, and rebound stats
 
 ## Analysis Process
 
 1. Collected player and team statistics using Selenium.
 2. Cleaned and validated the datasets with pandas.
-3. Standardized team idenitifers across player and team data.
+3. Standardized team identifiers across player and team data.
 4. Engineered concentration metrics for scoring, assists, and rebounds.
-5. Examined relationships between these metrics an team win percentage.
+5. Examined relationships between these metrics and team win percentage.
 6. Build an interactive Tableau dashboard to communicate the results. 
 
 ## Key Metrics
@@ -68,12 +68,16 @@ establish causation.
 [NBA Performance Analysis.pdf](https://github.com/user-attachments/files/32071707/NBA.Performance.Analysis.pdf)
 
 ## Repository Structure
-data/raw/
-
+- notebook = further analysis & calculate indicator concentrations
+- processed = CSV file from combined raw data files 
+- raw = outputted data from processing data
+- scripts = pipelines used to scrape NBA website
+- visuals = PDF of NBA performance dashboard
 
 ## Author
 
-Imani Candler  
+Imani Candler
+
 [Portfolio](https://imaniniccole.my.canva.site/portfolio)  
 
 [LinkedIn](http://www.linkedin.com/in/imanicandler)
